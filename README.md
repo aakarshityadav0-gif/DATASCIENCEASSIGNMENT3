@@ -1,0 +1,2 @@
+# DATASCIENCEASSIGNMENT3
+DATA SCIENECE EDA ON Global Terrorism Analysis (UNGTA Dataset)
